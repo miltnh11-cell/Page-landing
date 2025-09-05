@@ -1,0 +1,63 @@
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Milla Edukasi Kreatif</title>
+  <style>
+    body { font-family: 'Poppins', sans-serif; margin:0; padding:0; background:#fdfdfd url('https://www.transparenttextures.com/patterns/batik.png'); color:#333; }
+    header { background: linear-gradient(135deg,#f8d7da,#dbeafe); padding:60px 20px; text-align:center; border-radius:0 0 40px 40px; }
+    header img { width:120px; border-radius:50%; margin-bottom:20px; box-shadow:0 4px 10px rgba(0,0,0,0.1); }
+    header h1 { font-size:2rem; margin:0; color:#333; }
+    header p { font-size:1.1rem; color:#444; max-width:600px; margin:10px auto; }
+    section { padding:50px 20px; text-align:center; background:rgba(255,255,255,0.8); margin:20px; border-radius:20px; }
+    h2 { color:#444; margin-bottom:20px; }
+    .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:20px; max-width:1000px; margin:0 auto; }
+    .card { background:#fff; border-radius:20px; box-shadow:0 4px 10px rgba(0,0,0,0.05); padding:20px; }
+    .card img { width:80px; margin-bottom:10px; }
+    .card:hover { transform:translateY(-5px); transition:0.3s; }
+    .btn { display:inline-block; margin-top:15px; padding:12px 20px; background:#f8d7da; color:#333; text-decoration:none; font-weight:bold; border-radius:30px; transition:0.3s; }
+    .btn:hover { background:#f1bfc6; }
+    blockquote { background:#fdf2f8; border-left:6px solid #f8d7da; margin:20px auto; padding:15px; max-width:600px; border-radius:12px; font-style:italic; }
+    footer { background:#dbeafe; padding:30px 20px; text-align:center; border-radius:40px 40px 0 0; margin-top:40px; }
+    footer p { margin:5px 0; }
+  </style>
+</head>
+<body><header>
+  <img src="https://cdn-icons-png.flaticon.com/512/4333/4333609.png" alt="Milla Illustration">
+  <h1>👋 Hai, Aku Milla</h1>
+  <p>Aku bikin produk edukasi kreatif untuk anak & keluarga — agar belajar jadi seru, bermakna, dan dekat dengan budaya Indonesia 🇮🇩</p>
+</header><section>
+  <h2>✨ Dari Keresahan Jadi Karya</h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/2940/2940653.png" alt="Belajar Budaya" width="100">
+  <p>Aku sering lihat anak-anak lebih hafal lagu luar negeri daripada lagu daerah. Dari situlah lahir karya ini — bukan sekadar belajar, tapi juga mendekatkan anak-anak dengan budaya kita lewat cara yang seru.</p>
+</section><section>
+  <h2>🎁 Apa yang Aku Tawarkan?</h2>
+  <div class="cards">
+    <div class="card"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" alt="Ebook">📘 <b>Ebook Cerita & Edukasi Anak</b><br>Kisah seru penuh nilai kehidupan.<br><a href="#" class="btn">Beli Sekarang</a></div>
+    <div class="card"><img src="https://cdn-icons-png.flaticon.com/512/3159/3159310.png" alt="Worksheet">🎨 <b>Worksheet Kreatif</b><br>Aktivitas praktis yang bisa dikerjakan bareng keluarga.<br><a href="#" class="btn">Download</a></div>
+    <div class="card"><img src="https://cdn-icons-png.flaticon.com/512/727/727240.png" alt="Lagu">🎶 <b>Lagu Budaya Nusantara</b><br>Belajar lewat nyanyian yang easy listening.<br><a href="#" class="btn">Dengarkan</a></div>
+    <div class="card"><img src="https://cdn-icons-png.flaticon.com/512/1165/1165674.png" alt="Video">🎥 <b>Video Belajar Interaktif</b><br>Visual seru yang bikin anak betah belajar.<br><a href="#" class="btn">Tonton</a></div>
+  </div>
+</section><section>
+  <h2>⭐ Apa Bedanya dengan yang Lain?</h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/427/427735.png" alt="Unique" width="100">
+  <p>💡 Dibuat dengan cinta, bukan copy-paste<br>
+     💡 Kontennya original & berakar dari budaya Indonesia<br>
+     💡 Anak senang belajar tanpa merasa dipaksa<br>
+     💡 Bisa jadi momen bonding orang tua & anak</p>
+</section><section>
+  <h2>💌 Kata Mereka</h2>
+  <blockquote>“Anak saya jadi semangat belajar. Bahkan dia cerita ke temannya tentang cerita rakyat yang baru dia baca!” – Ibu Rani</blockquote>
+  <blockquote>“Lagunya bikin saya nostalgia, anak-anak malah ngajak nyanyi bareng.” – Pak Andi</blockquote>
+</section><section>
+  <h2>🚀 Yuk Mulai Petualangan Belajar</h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/477/477210.png" alt="Start" width="90">
+  <p><a href="https://wa.me/62xxxxxxxxxx" class="btn">💬 Chat via WhatsApp</a></p>
+</section><footer>
+  <h3>🌐 Ikuti Aku</h3>
+  <p>🎵 TikTok → <a href="#">@selvaraspace</a></p>
+  <p>📸 Instagram → <a href="#">@namamu</a></p>
+  <p>🛒 Marketplace → <a href="#">Toko Online</a></p>
+  <p>🌸 Terima kasih sudah mampir, mari belajar & melestarikan budaya bersama 💕</p>
+</footer></body>
+</html>
